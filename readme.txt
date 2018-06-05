@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+My Git is only for learning and not for commercial.
